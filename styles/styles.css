@@ -366,8 +366,6 @@ img {
 }
 /* Наші клієнти */
 
-.clients {
-}
 .clients-title {
   font-size: 36px;
   line-height: clac(42 / 36);
@@ -380,8 +378,7 @@ img {
 .clients-list {
   display: flex;
 }
-.list {
-}
+
 .clients-item + .clients-item {
   margin-left: 30px;
 }
@@ -401,8 +398,6 @@ img {
   border-color: var(--hover-color);
 }
 
-.link {
-}
 .clients-icon {
   fill: currentColor;
 }
