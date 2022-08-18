@@ -422,7 +422,8 @@ img {
 
   color: var(--icons-color);
 }
-.clients-link:hover {
+.clients-link:hover,
+.clients-link:focus {
   color: var(--hover-color);
   border-color: var(--hover-color);
 }
